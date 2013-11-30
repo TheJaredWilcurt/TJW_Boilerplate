@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    The Jared Wilcurt -- Lead, Layout, Design, HTML, CSS, Sass, JS, Testing, Responsive Design
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Sass
+    Normalize.css, jQuery, CSS Browser Selector, Flying Focus, Console Error Fix
+    SublimeText, ScoutApp, Dropbox, Dreamweaver, Replace Text
+    Photoshop, Illustrator, Png Optimizer, PNGOUTWin, PNGGauntlet
+    Rename-It!, FileSearchEX, MSTSC
+    Designed entirely on Windows 7 Professional 64-Bit

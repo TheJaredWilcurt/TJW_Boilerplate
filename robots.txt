@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+
+
+User-agent: *
+
+Disallow: /.sass-cache/
+Disallow: /_assets/
+Disallow: /_sass/
