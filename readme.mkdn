@@ -31,10 +31,10 @@ The root of the site contains the main index.htm file which should be renamed to
 The index.htm file contains the following items of importance:
 
  * It begins with the html5 doctype
- * The first line after <head> is:  
+ * The first line after `<head>` is:  
    `<meta http-equiv="X-UA-Compatible" content="IE=edge" />`  
    which forces all versions of IE to render using the newest web technology available to them.
  * The viewport is set to allow media query/responsive design.
- * HTML5 shim is in place so newer tags like <footer> will be understood by old versions of IE.
+ * HTML5 shim is in place so newer tags like `<footer>` will be understood by old versions of IE.
  * Google CDN copy of jQuery is loaded, if it doesn't load then the next line of code detects that and injects a line to load up the local copy.
- * Just before the </body> the site's main javascript is loaded. This should make the page look like it renders faster.
+ * Just before the `</body>` the site's main javascript is loaded. This should make the page look like it renders faster.
