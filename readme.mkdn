@@ -2,6 +2,10 @@
 
 This document is meant to explain all parts of this boilerplate. It is based, in part, on the HTML5 Boilerplate, however I've altered it enough to call it my own, and include all the tools I routinely use on websites. I intend on keep this up to date as I add more items to my expanding toolkit, and retire older ones of lesser value.
 
+The boilerplate page can be viewed live here:
+
+* [TheJaredWilcurt.github.io/TJW_Boilerplate](http://thejaredwilcurt.github.io/TJW_Boilerplate)
+
 In regards to specific files, either they are mentioned below, or they are already commented to explain what their purpose or function is.
 
 ##_assets Folder
