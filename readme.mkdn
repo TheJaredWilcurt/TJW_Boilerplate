@@ -20,7 +20,7 @@ This folder holds all graphic elements that are not photos. blank.gif is a 1px b
 
 Contains all the .scss and .sass files that make up the CSS for the site. Use compass installed in Ruby, or Scout-App to process these. The style.scss file pulls in all other sass documents in to one.
 
-##_scipts Folder
+##_scripts Folder
 
 Contains all javascript for the site including the the main.dev.js which is the uncompressed version of main.js. Also contains the jQuery fallback in case Google CDN cannot be reached.
 
