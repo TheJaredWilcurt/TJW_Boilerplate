@@ -42,3 +42,9 @@ The index.htm file contains the following items of importance:
  * HTML5 shim is in place so newer tags like `<footer>` will be understood by old versions of IE.
  * Google CDN copy of jQuery is loaded, if it doesn't load then the next line of code detects that and injects a line to load up the local copy.
  * Just before the `</body>` the site's main javascript is loaded. This should make the page look like it renders faster.
+
+* * *
+
+###Credit
+
+Much of this repo is inspired (outright stolen) from the HTML 5 Boilerplate
