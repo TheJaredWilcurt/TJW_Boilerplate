@@ -45,6 +45,6 @@ The index.htm file contains the following items of importance:
 
 * * *
 
-###Credit
+### Credit
 
 Much of this repo is inspired (outright stolen) from the HTML 5 Boilerplate
