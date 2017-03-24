@@ -1,4 +1,4 @@
-#NOTES
+# NOTES
 
 This document is meant to explain all parts of this boilerplate. It is based, in part, on the HTML5 Boilerplate, however I've altered it enough to call it my own, and include all the tools I routinely use on websites. I intend on keep this up to date as I add more items to my expanding toolkit, and retire older ones of lesser value.
 
@@ -8,27 +8,27 @@ The boilerplate page can be viewed live here:
 
 In regards to specific files, either they are mentioned below, or they are already commented to explain what their purpose or function is.
 
-##_assets Folder
+## _assets Folder
 
 This folder should contain all of the content that is used for the creation of the website, but isn't a part of the final product. For example, .psd files, images too large for use on the web, unedited photos, editable logo files, etc.
 
-##_img Folder
+## _img Folder
 
 This folder holds all graphic elements that are not photos. blank.gif is a 1px by 1px transparent image. It comes in handy on occassion.
 
-##_sass Folder
+## _sass Folder
 
 Contains all the .scss and .sass files that make up the CSS for the site. Use compass installed in Ruby, or Scout-App to process these. The style.scss file pulls in all other sass documents in to one.
 
-##_scripts Folder
+## _scripts Folder
 
 Contains all javascript for the site including the the main.dev.js which is the uncompressed version of main.js. Also contains the jQuery fallback in case Google CDN cannot be reached.
 
-##_style Folder
+## _style Folder
 
 The final outputted style.css document that gets processed from the _sass folder is stored here. All pages on the site reference this one style document.
 
-##Root Directory
+## Root Directory
 
 The root of the site contains the main index.htm file which should be renamed to default.htm on IIS servers. It also contains the home screen icons for all the various iOS devices, and the favicon for browser tabs. The 404 file came from HTML5BP as did crossdomain and htaccess. I've edited the humans and robots files, so if others use this boilerplate, you'll need to alter those as you see fit.
 
